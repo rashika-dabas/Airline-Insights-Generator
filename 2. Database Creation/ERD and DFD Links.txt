@@ -1,0 +1,5 @@
+Entity Relationship Diagram
+https://lucid.app/lucidchart/4b171a38-2279-4c01-86a2-024e78fb1588/edit?invitationId=inv_22a6eec3-f63d-42cf-bc34-2b5f42381492&page=0_0#
+
+Data Flow Diagram
+https://lucid.app/lucidchart/ebe9e0ac-b0ab-48fa-9bd2-d318192e6f0e/edit?invitationId=inv_b565a98e-a93f-4016-872b-13e2730496f5&page=0_0#
