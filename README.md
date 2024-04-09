@@ -1,6 +1,6 @@
 # Sample-Superstore-Analyzer
 ## Step-1: Data Analysis
-1. Analysis: Identify and document the level of completeness, inconsistencies, redundancies, and duplicates. Sample Superstore is the data source used to generate your reports.
+1. Analysis: Identify and document the level of completeness, inconsistencies, redundancies, and duplicates. Sample Superstore is the data source used to generate reports.
 2. Target Audience:
 * Use assumptions to define your target audience for both, the operational and executive reports.
 * Explain the intended use of each report (i.e.: monitor and control, decision-making, performance improvement, research analysis), and what would be achievable by using these reports.
