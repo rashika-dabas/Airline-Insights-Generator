@@ -1,1 +1,1 @@
-# Airline-Insights-Generator
+# Sample-Superstore-Analyzer
